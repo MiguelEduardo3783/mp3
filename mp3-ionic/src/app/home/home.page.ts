@@ -28,7 +28,7 @@ export class HomePage {
   ) {
     this.playlist = [
       {
-        "url" : "assets/music/Geinō Yamashirogumi - Kaneda's Theme.mp3",
+        "url" : "assets/music/Kaneda.mp3",
         "name": "Kaneda"
       },
       {
